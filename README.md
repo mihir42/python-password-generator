@@ -1,1 +1,1 @@
-This is program generates a random password.
+This program generates a random password of specified length.
